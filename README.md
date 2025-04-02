@@ -1,4 +1,4 @@
-# HAT TOO EAT app
+# WHAT TOO EAT app
 
 A description of what app does and how it excepts user input
 
@@ -6,7 +6,9 @@ A description of what app does and how it excepts user input
 
 -[Intention](#intention)
 -[Images and Screenshots](#ImagesandScreenshots)
+-[Youtube Video](#YouTubeVideo)
 -[Referencing](#referencing)
+
 
 ## Intention
 
@@ -26,11 +28,23 @@ This is what the app will look like when Hear or user inputs incorrect time of d
 file:///C:/Users/lab_services_student/Downloads/Screenshot3%20(1).png
 ![image](https://github.dev/ST10469550/WHAT-TOO-EAT-app/blob/master/Screenshot3.png)
 
-## Referencing //for my menu
+## Referencing
+//for my menu
 
 By Meghan Hynes Cole:  June 05, 2024 
 Available at:
 ![Online](https://www.foodnetwork.com/recipes/photos/salad-recipes)
+[29 March 2025]
+
+By Leah:
+The 5 best 3pm work snacks! Avaliqble at:
+![Online](https://www.leahitshines.com.au)
+[29 March 2025]
+
+ By  Abdalla: March 18, 2025
+https://cookingwithzahra.com/beef-lasagne/
+ [30 March 2025]
+
 
 
 
