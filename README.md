@@ -46,7 +46,7 @@ Available at:
 [Accessed on 29 March 2025]
 
 By Leah:
-The 5 best 3pm work snacks! Avaliqble at:
+The 5 best 3pm work snacks! Avaliable at:
 ![Online](https://www.leahitshines.com.au)
 [Accessed on 29 March 2025]
 
