@@ -15,6 +15,10 @@ App is created to assist Hera/user in deciding what to eat depending on the time
 
 This is a user-friendly Android app that will suggest meal options for Hera, this app will give Hera simple meal choices when ever she needs something to eat and is struggling with deciding.
 
+## GitHub Repository
+//LINK
+![Online](https://github.com/ST10469550/WHAT-TOO-EAT-app/blob/master/README.md)
+
 ## Images and Screenshots
 
 This is how the app looks like before taking user input, the app interface will dispaly a hint promting Hera or user to input time of day
