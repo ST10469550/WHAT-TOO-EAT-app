@@ -21,7 +21,7 @@ This is a user-friendly Android app that will suggest meal options for Hera, thi
 
 ## Images and Screenshots
 
-This is how the app looks like before taking user input, the app interface will dispaly a hint promting Hera or user to input time of day
+This is how the app looks like before taking user input, the app interface will display a hint prompting Hera or user to input time of day
 https://github.com/ST10469550/WHAT-TOO-EAT-app/blob/master/Screenshot%201.png?raw=true
 ![image](https://github.com/user-attachments/assets/72789f14-5a38-46a3-b7fc-2a827d28aecd)
 
@@ -46,7 +46,7 @@ Available at:
 [Accessed on 29 March 2025]
 
 By Leah:
-The 5 best 3pm work snacks! Avaliable at:
+The 5 best 3pm work snacks! Available at:
 ![Online](https://www.leahitshines.com.au)
 [Accessed on 29 March 2025]
 
