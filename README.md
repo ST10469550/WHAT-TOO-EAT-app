@@ -31,9 +31,11 @@ https://github.com/ST10469550/WHAT-TOO-EAT-app/blob/master/Screenshot2.png
 
 This is what the app will look like when Hear or user inputs incorrect time of day
 file:///C:/Users/lab_services_student/Downloads/Screenshot3%20(1).png
-![image](https://github.dev/ST10469550/WHAT-TOO-EAT-app/blob/master/Screenshot3.png)
+![image](https://github.com/ST10469550/WHAT-TOO-EAT-app/blob/master/Screenshot3.png)
 
 ## YouTube Video
+//link
+![Onine](https://youtu.be/rGdWU5gOOjk?si=81QEs1YvEv3Pvjbm)
 
 ## Referencing
 //for my menu
