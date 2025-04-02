@@ -18,6 +18,7 @@ This is a user-friendly Android app that will suggest meal options for Hera, thi
 ## GitHub Repository
 //LINK
 ![Online](https://github.com/ST10469550/WHAT-TOO-EAT-app/blob/master/README.md)
+![Online](https://github.com/ST10469550/WHAT-TOO-EAT-app#)
 
 ## Images and Screenshots
 
